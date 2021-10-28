@@ -31,6 +31,7 @@ app.post("/hello", (req, res) => {
 
 //Mock database
 let users = [{"username": "johndoe", "password": "johndoe1234"}, {"username": "petesmith", "password": "smith456"}];
+//added users to save time and for checking output
 
 //Will create a signup post
 app.post("/signup", (req, res) => {
