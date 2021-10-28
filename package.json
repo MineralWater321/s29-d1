@@ -1,0 +1,22 @@
+{
+  "name": "s29-d1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/MineralWater/s29-d1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/MineralWater/s29-d1/issues"
+  },
+  "homepage": "https://gitlab.com/MineralWater/s29-d1#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
